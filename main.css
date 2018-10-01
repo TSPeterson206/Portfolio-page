@@ -17,17 +17,20 @@ body {
   padding: 40px;
 }
 
-.flex-center{
-  justify-content: center;
+.cards {
+  margin: 0 auto;
 }
+
+
 .pics {
 
   width: 200px;
 
 }
 
-button {
+buttons {
   display:block;
+  padding-top: 50px;
 }
 
 h1 {
@@ -45,5 +48,5 @@ h1 {
 
   .text-center {
     
-    text-align:center
+    margin: 0 auto;
   }
