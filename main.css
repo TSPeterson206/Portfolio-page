@@ -1,12 +1,9 @@
 body {
-  background-color: grey
+  background-color:whitesmoke
 }
 
 .top-header {
-
-  height: 50vh;
   position:relative;
-
 }
 
 .headshot {
@@ -21,11 +18,8 @@ body {
   margin: 0 auto;
 }
 
-
 .pics {
-
   width: 200px;
-
 }
 
 buttons {
@@ -34,19 +28,14 @@ buttons {
 }
 
 h1 {
-
   font-size: 80px;
-
 }
 
 .introPar {
-
     width:400px;
     padding: 20px;
-
   }
 
   .text-center {
-    
     margin: 0 auto;
   }
