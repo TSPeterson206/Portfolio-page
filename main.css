@@ -14,17 +14,18 @@ body {
   padding: 40px;
 }
 
+.card-body:hover{
+  background:grey;
+}
+
 .cards {
-  margin: 0 auto;
+  /* margin: 0 auto; */
+  justify-content:space-between;
+  justify-content: center;
 }
 
 .pics {
   width: 200px;
-}
-
-buttons {
-  display:block;
-  padding-top: 50px;
 }
 
 h1 {
@@ -38,4 +39,14 @@ h1 {
 
   .text-center {
     margin: 0 auto;
+  }
+
+  .container-fluid {
+    margin-top:50px;
+    margin-bottom:60px;
+  }
+
+  .row {
+    justify-content:space-between;
+  justify-content: center;
   }
